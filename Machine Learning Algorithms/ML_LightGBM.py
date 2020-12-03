@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 12 09:35:06 2020
-
-@author: usuario
-"""
-
 
 
 def LifgtGBM(data):
